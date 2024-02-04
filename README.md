@@ -39,8 +39,7 @@ Grab Crypto Wallets. 🦊 Metamask, 🅰️ Atomic, 👾 Exodus, 🅱️ Binance
                                               ⬇️ Setup
 first open install.bat
 -
-open steal.exe
--
+
 and open builder.bat
 -
 
