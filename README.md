@@ -1,5 +1,4 @@
-Discord Information
-                                          ⬇️ Information you grab                                    
+Discord Information :                              
 Nitro
 Badges
 Billing
