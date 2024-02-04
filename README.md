@@ -1,5 +1,5 @@
 Discord Information
-                                     
+                                          ⬇️ Information you grab                                    
 Nitro
 Badges
 Billing
