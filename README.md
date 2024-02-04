@@ -1,5 +1,5 @@
 Discord Information
-
+                                     
 Nitro
 Badges
 Billing
@@ -9,30 +9,30 @@ HQ Friends
 HQ Guilds
 Gift Codes
 Discord Injection
-
+                                     
 Send token, password, email and billing on login or when email/password is changed
 Grab Browser cookies & passwords
-
+                                     
 General Functions
-
+                                     
 Check if being run in a VirusTotal sandbox
 Adds file to startup
 Application Data
-
+                                     
 Steam
 Riot Games
 Telegram
 System Information
-
+                                     
 User
 System
 Disk
 Network
 File Stealer
-
+                                     
 Grabs Seed Phrases, Tokens, Private Keys, Recovery Codes, Backup Codes, 2FA codes
 General Functions
-
+                                     
 Check if being run in a VirusTotal sandbox
 Adds file to startup
 Grab Crypto Wallets. 🦊 Metamask, 🅰️ Atomic, 👾 Exodus, 🅱️ Binance, 💰 Coinbase, 🟡 Trust, 👻 Phantom ...
